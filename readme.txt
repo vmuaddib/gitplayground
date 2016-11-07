@@ -5,3 +5,4 @@ second change on this file
 third change on this file
 first change in a separate branch
 second change done in my branch. This one after merge and forcing a conflict
+change added after merge
